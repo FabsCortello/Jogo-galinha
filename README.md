@@ -29,24 +29,3 @@ Desenvolvido em **HTML, CSS e JavaScript puro**, o jogo estimula a observação 
 
 ---
 
-## 🛠️ Estrutura de Pastas
-
-A-Galinha-Viz/
-│
-├── index.html # Estrutura principal do jogo
-├── style.css # Estilos e efeitos visuais
-├── script.js # Lógica principal
-│
-├── componentes/ # Scripts separados dos elementos
-│ ├── celeiro.js
-│ ├── galinha.js
-│ ├── regador.js
-│ └── objetosFalsos.js
-│
-└── imagens/ # Imagens e ícones do jogo
-├── celeiro.png
-├── galinha.png
-├── regador.png
-├── gato_preto.png
-├── sapo_galinha_da_montanha.png
-└── ... (outros objetos)
